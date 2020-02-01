@@ -7,5 +7,8 @@ public class Main {
 	// write your code here
         int a = 5;
         System.out.println(a);
+        float b = 0.9f;
+        System.out.println(b);
+
     }
 }
