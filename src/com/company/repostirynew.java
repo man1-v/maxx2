@@ -11,6 +11,10 @@ public class repostirynew {
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
+        boolean a1 = false;
+        float c1 = 2.5f;
+        System.out.println(a1);
+        System.out.println(c1);
 
     }
 }
